@@ -1,0 +1,35 @@
+# Core LangChain ecosystem
+langchain>=0.2.0
+langchain-openai>=0.1.8
+langchain-community>=0.2.0
+langchain-experimental>=0.0.58
+
+# Graph database
+neo4j>=5.0.0
+
+# Document processing
+pypdf>=4.0.0
+
+# Web interface
+streamlit>=1.34.0
+
+# Environment management
+python-dotenv>=1.0.0
+
+# Data handling
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Optional: for enhanced text processing
+tiktoken>=0.5.0
+
+# Optional: for better PDF handling
+pymupdf>=1.24.0
+
+# Optional: for graph visualization
+networkx>=3.0
+matplotlib>=3.5.0
+
+# Development tools (optional)
+jupyter>=1.0.0
+ipykernel>=6.20.0

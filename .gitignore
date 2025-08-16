@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Project-specific
+# Neo4j database files
+*.db-journal
+*.db-shm
+*.db-wal
+
+# Sample data files (uncomment if you want to track sample PDFs)
+# data/*.pdf
+
+# Streamlit cache
+.streamlit/
